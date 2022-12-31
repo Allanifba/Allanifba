@@ -5,6 +5,7 @@
 - 💻 Playlist Matemática Com Python: https://youtube.com/playlist?list=PL8aWdrmfXHiLeEamnK0PfGjWkosG267bt
 - 🌱 Atualmente estou apredendo a linguagem de programação Python, em especial, o que se relacione com matemática.
 - 🕵️‍♂️ Além deste GitHub você pode acessar o canal Matemática Para Gente Grande e encontrar mais de 1200 vídeos relacionados à matemática: https://www.youtube.com/@prof_allanIFBA
+- 🧙‍♂️ Entre outras qualificações me dedico a pilantropia, estudo das ciências ocultas, charlatanismo, jumentologia e áreas afins!
 
 <!---
 Allanifba/Allanifba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
